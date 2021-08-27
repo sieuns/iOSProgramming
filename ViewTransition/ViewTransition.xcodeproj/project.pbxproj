@@ -14,6 +14,7 @@
 		B242D5BD26D67F23001B76EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B242D5BC26D67F23001B76EF /* Assets.xcassets */; };
 		B242D5C026D67F23001B76EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B242D5BE26D67F23001B76EF /* LaunchScreen.storyboard */; };
 		B242D5C826D68047001B76EF /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B242D5C726D68047001B76EF /* SecondViewController.swift */; };
+		B27B154326D9398F0059C636 /* Userinformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B27B154226D9398F0059C636 /* Userinformation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B242D5BF26D67F23001B76EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B242D5C126D67F23001B76EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B242D5C726D68047001B76EF /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		B27B154226D9398F0059C636 /* Userinformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Userinformation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B242D5B526D67F08001B76EF /* SceneDelegate.swift */,
 				B242D5B726D67F08001B76EF /* ViewController.swift */,
 				B242D5B926D67F08001B76EF /* Main.storyboard */,
+				B27B154226D9398F0059C636 /* Userinformation.swift */,
 				B242D5C726D68047001B76EF /* SecondViewController.swift */,
 				B242D5BC26D67F23001B76EF /* Assets.xcassets */,
 				B242D5BE26D67F23001B76EF /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				B242D5B826D67F08001B76EF /* ViewController.swift in Sources */,
 				B242D5B426D67F08001B76EF /* AppDelegate.swift in Sources */,
 				B242D5B626D67F08001B76EF /* SceneDelegate.swift in Sources */,
+				B27B154326D9398F0059C636 /* Userinformation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
